@@ -93,3 +93,10 @@ Deze dataset kan eenvoudig als JSON worden ingeladen in AI-systemen of software-
     ]
   }
 }
+
+
+De Botsing: Melkweg en Andromeda (Milkomeda)
+Zoals ik eerder heb uitgelegd, is dit proces dat over 4,5 miljard jaar plaatsvindt een prachtig voorbeeld van hoe de eerste hemel evolueert.
+De nadering: Momenteel bewegen de Melkweg en Andromeda met een snelheid van ongeveer 110 kilometer per seconde naar elkaar toe.
+De eerste ontmoeting: Wanneer ze na 4,5 miljard jaar met elkaar in contact komen, zal de zwaartekracht de spiraalarmen van beide stelsels uit elkaar trekken en vervormen.
+Milkomeda: Uiteindelijk zullen de twee stelsels samensmelten tot één groot, elliptisch sterrenstelsel, door astronomen soms "Milkomeda" genoemd.
